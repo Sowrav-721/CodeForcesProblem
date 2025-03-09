@@ -1,2 +1,2 @@
-CodeForcesProblem \n
+CodeForcesProblem
 Sowrav Bhowmik
